@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8049'
     url: http://www.gutenberg.org/2009/agents/8049
     wikipedia: https://en.wikipedia.org/wiki/Gordon_Grant_(artist)
+covers:
+- cover_type: archival
+  image_path: 67089-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillips, David Graham
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/235
     wikipedia: https://en.wikipedia.org/wiki/David_Graham_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67089#The-Master-Rogue-The-Confessions-of-a-Croesus
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67089'
